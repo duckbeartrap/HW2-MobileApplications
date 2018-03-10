@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeirdForm</string>
+    <string name="making_this_instead_of_making_music">Making This Instead Of Making Music</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
+</resources>
